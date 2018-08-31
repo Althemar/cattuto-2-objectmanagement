@@ -1,0 +1,77 @@
+Mono path[0] = 'D:/Travail/Unity_Projects/CatlikeTutorials/Section_01_Basics/04_ObjectPools/Build/Dev_Data/Managed'
+Mono path[1] = 'D:/Travail/Unity_Projects/CatlikeTutorials/Section_01_Basics/04_ObjectPools/Build/Dev_Data/Mono'
+Mono config path = 'D:/Travail/Unity_Projects/CatlikeTutorials/Section_01_Basics/04_ObjectPools/Build/Dev_Data/Mono/etc'
+PlayerConnection initialized from D:/Travail/Unity_Projects/CatlikeTutorials/Section_01_Basics/04_ObjectPools/Build/Dev_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55335
+Multi-casting "[IP] 192.168.1.17 [Port] 55335 [Flags] 3 [Guid] 1067790230 [EditorId] 2698815676 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-BB5JS11) [Debug] 0" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55335]...
+PlayerConnection accepted from [192.168.1.17] handle:0x36c
+Started listening to [0.0.0.0:55335]
+PlayerConnection already initialized - listening to [0.0.0.0:55335]
+Player data archive not found at `D:/Travail/Unity_Projects/CatlikeTutorials/Section_01_Basics/04_ObjectPools/Build/Dev_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7900 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3053 MB
+    Driver:   22.19.165.1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Travail\Unity_Projects\CatlikeTutorials\Section_01_Basics\04_ObjectPools\Build\Dev_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on Stuff
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoScriptCache.cpp Line: 376)
+
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.095417 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 39b4 -> priority: 1 
+  Thread -> id: a3c -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.264491 ms
+System memory in use before: 31.1 MB.
+System memory in use after: 31.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 18054.
+Total: 4.343364 ms (FindLiveObjects: 0.895962 ms CreateObjectMapping: 0.270177 ms MarkObjects: 3.144019 ms  DeleteObjects: 0.031696 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.994977 ms
+System memory in use before: 30.9 MB.
+System memory in use after: 31.6 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 18054.
+Total: 4.279669 ms (FindLiveObjects: 0.954224 ms CreateObjectMapping: 0.198029 ms MarkObjects: 3.074587 ms  DeleteObjects: 0.051318 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.011882 ms
+System memory in use before: 30.8 MB.
+System memory in use after: 31.5 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 18054.
+Total: 4.454756 ms (FindLiveObjects: 1.077690 ms CreateObjectMapping: 0.217349 ms MarkObjects: 3.128321 ms  DeleteObjects: 0.030489 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.208100 ms
+System memory in use before: 31.2 MB.
+System memory in use after: 31.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 18152.
+Total: 3.825952 ms (FindLiveObjects: 0.905018 ms CreateObjectMapping: 0.227613 ms MarkObjects: 2.663737 ms  DeleteObjects: 0.028376 ms)
+
+Waiting for finish
